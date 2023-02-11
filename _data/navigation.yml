@@ -22,3 +22,11 @@
   link: /
   new_window: true
   highlight: true
+- name: Registration
+  link: /blog
+  new_window: true
+  highlight: true
+- name: Agenda
+  link: /blog
+  new_window: true
+  highlight: true
